@@ -10,7 +10,7 @@
 LiquidCrystal_I2C lcd(0x27, 16, 2);
 //--------------------------------------------------------------
 //emergency phone number with country code
-const String EMERGENCY_PHONE = "+919176426280";
+const String EMERGENCY_PHONE = "xxxxxxxxx";
 //--------------------------------------------------------------
 //GSM Module RX pin to Arduino 3
 //GSM Module TX pin to Arduino 2
